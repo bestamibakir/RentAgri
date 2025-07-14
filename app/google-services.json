@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063988009758",
+    "project_id": "rentagri-ec436",
+    "storage_bucket": "rentagri-ec436.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063988009758:android:30e942a647373ceb0c470f",
+        "android_client_info": {
+          "package_name": "com.bestamibakir.rentagri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI658A07xGeHu_5RYL4v7BqL8DHmxtHKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

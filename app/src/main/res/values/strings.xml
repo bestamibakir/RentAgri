@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">RentAgri</string>
+    
+    <!-- Offline/Cache Durumu -->
+    <string name="offline_mode_active">Çevrimdışı mod aktif</string>
+    <string name="showing_cached_data">Önceki veriler gösteriliyor</string>
+    <string name="no_internet_connection">İnternet bağlantısı yok</string>
+    <string name="data_updated">Veriler güncellendi</string>
+    <string name="using_offline_data">Çevrimdışı veriler kullanılıyor</string>
+    <string name="refresh_when_online">İnternet bağlantısı olduğunda veriler güncellenecek</string>
+    <string name="cache_cleared">Eski veriler temizlendi</string>
+    <string name="pull_to_refresh">Yenilemek için aşağı çekin</string>
+    <string name="last_updated">Son güncelleme: %1$s</string>
+    
+    <!-- Kiralama Sistemi -->
+    <string name="rental_machines">Kiralık Makineler</string>
+    <string name="city_filter">Şehir Filtresi</string>
+    <string name="search_machines">Makine ara...</string>
+    <string name="clear">Temizle</string>
+    <string name="all">Tümü</string>
+    <string name="filters_active">Filtreler aktif</string>
+    <string name="loading_machines">Makineler yükleniyor...</string>
+    <string name="no_listings_found">Henüz ilan bulunmamaktadır</string>
+    <string name="no_listings_in_city">%1$s şehrinde ilan bulunamadı</string>
+    <string name="showing_city_listings">%1$s şehrindeki makineler gösteriliyor</string>
+    <string name="show_all_listings">Tüm İlanları Göster</string>
+    <string name="create_listing">İlan Oluştur</string>
+    <string name="view_all_cities">Tüm şehirlerdeki ilanları görmek için konum filtresini kapatın</string>
+    <string name="create_first_listing">İlk ilanınızı oluşturun</string>
+    
+    <!-- Teklif Sistemi -->
+    <string name="make_offer">Teklif Ver</string>
+    <string name="offer_amount">Teklif Miktarı (₺)</string>
+    <string name="offer_message">Mesaj (Opsiyonel)</string>
+    <string name="offer_message_hint">Teklifinizle birlikte bir mesaj yazabilirsiniz...</string>
+    <string name="current_price">Mevcut Fiyat: %1$s</string>
+    <string name="enter_valid_amount">Geçerli bir miktar giriniz</string>
+    <string name="my_listings">İlanlarım</string>
+    <string name="received_offers">Gelen Teklifler</string>
+    <string name="sent_offers">Verdiğim Teklifler</string>
+    <string name="no_offers_sent">Henüz teklif vermediniz.</string>
+    <string name="no_offers_received">Henüz teklif almadınız.</string>
+    <string name="offer_status_pending">Bekliyor</string>
+    <string name="offer_status_accepted">Kabul Edildi</string>
+    <string name="offer_status_rejected">Reddedildi</string>
+    <string name="accept_offer">Kabul Et</string>
+    <string name="reject_offer">Reddet</string>
+    <string name="offer_accepted">Teklif kabul edildi</string>
+    <string name="offer_rejected">Teklif reddedildi</string>
+    <string name="offer_prefix">Teklif: %1$s</string>
+    <string name="message_label">Mesaj:</string>
+    <string name="buyer_label">Alıcı</string>
+    <string name="offer_already_made">Bu ilan için zaten bir teklifiniz var</string>
+    <string name="offer_send_error">Teklif gönderilirken hata oluştu</string>
+    <string name="login_required_for_offer">Teklif vermek için giriş yapmanız gerekiyor</string>
+    
+    <!-- Teklif Kabul Edildiğinde İletişim -->
+    <string name="offer_accepted_title">Teklif Kabul Edildi! 🎉</string>
+    <string name="contact_available_message">Artık karşı tarafla iletişime geçebilirsiniz:</string>
+    <string name="buyer_contact_info">Alıcı İletişim Bilgileri</string>
+    <string name="seller_contact_info">Satıcı İletişim Bilgileri</string>
+    <string name="contact_info_header">İletişim Bilgileri</string>
+    <string name="call_action">Ara</string>
+    
+    <!-- Makine Tipleri -->
+    <string name="machine_tractor">Traktör</string>
+    <string name="machine_combine">Kombine</string>
+    <string name="machine_plow">Pulluk</string>
+    <string name="machine_disc_harrow">Diskaro</string>
+    <string name="machine_cultivator">Kültivatör</string>
+    <string name="machine_seeder">Mibzer</string>
+    <string name="machine_sprayer">İlaçlama Makinesi</string>
+    <string name="machine_fertilizer_spreader">Gübre Dağıtıcı</string>
+    <string name="machine_harvester">Biçerdöver</string>
+    <string name="machine_mower">Ot Makinesi</string>
+    <string name="machine_baler">Balya Makinesi</string>
+    <string name="machine_trailer">Römork</string>
+    <string name="machine_water_tank">Su Tankeri</string>
+    <string name="machine_soil_processing">Toprak İşleme</string>
+    <string name="machine_planting">Ekim Makinesi</string>
+    <string name="machine_harvest_equipment">Hasat Makinesi</string>
+    <string name="machine_other">Diğer</string>
+    
+    <!-- Ülke ve Telefon Sistemi -->
+    <string name="country_selector_label">Ülke</string>
+    <string name="phone_field_label">Telefon Numarası</string>
+    <string name="phone_format_example">Örnek: %1$s</string>
+    <string name="invalid_phone_format">Geçersiz telefon formatı</string>
+    <string name="country_turkey">Türkiye</string>
+    <string name="country_usa">Amerika Birleşik Devletleri</string>
+    <string name="country_germany">Almanya</string>
+    <string name="country_france">Fransa</string>
+    <string name="country_uk">Birleşik Krallık</string>
+    
+    <!-- Profil Düzenleme -->
+    <string name="edit_profile">Profili Düzenle</string>
+    <string name="update_profile">Profili Güncelle</string>
+    <string name="profile_updated_successfully">Profil başarıyla güncellendi!</string>
+    <string name="select_profile_photo">Profil Fotoğrafı Seç</string>
+    <string name="change_photo">Fotoğraf Değiştir</string>
+    <string name="no_changes_made">Herhangi bir değişiklik yapılmadı</string>
+    <string name="profile_update_error">Profil güncellenirken bir hata oluştu</string>
+    
+    <!-- İl-İlçe -->
+    <string name="province">İl</string>
+    <string name="district">İlçe</string>
+    <string name="select_province">İl seçiniz</string>
+    <string name="select_district">İlçe seçiniz</string>
+    <string name="select_province_first">Önce il seçiniz</string>
+    <string name="no_districts_available">Bu il için ilçe bilgisi yok</string>
+    <string name="province_required">İl seçimi zorunludur</string>
+    <string name="district_required">İlçe seçimi zorunludur</string>
+</resources>
