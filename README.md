@@ -136,7 +136,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developer
 
-**Besta Mibakir**
+**Bestami BAKIR**
 - GitHub: [@bestamibakir](https://github.com/bestamibakir)
 - Email: bestamibakir@gmail.com
 
